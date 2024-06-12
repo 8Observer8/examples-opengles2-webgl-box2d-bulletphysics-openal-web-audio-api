@@ -14,11 +14,11 @@ public:
     void initializeGL() override
     {
         initializeOpenGLFunctions();
-        glClearColor(48.f / 255.f, 56.f / 255.f, 65.f / 255.f, 1.f);
     }
 
     void paintGL() override
     {
+        glClearColor(48.f / 255.f, 56.f / 255.f, 65.f / 255.f, 1.f);
         glClear(GL_COLOR_BUFFER_BIT);
     }
 };
