@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/shaders/texture.frag</file>
+        <file>assets/shaders/texture.vert</file>
+        <file>assets/textures/button.json</file>
+        <file>assets/textures/button.png</file>
+    </qresource>
+</RCC>

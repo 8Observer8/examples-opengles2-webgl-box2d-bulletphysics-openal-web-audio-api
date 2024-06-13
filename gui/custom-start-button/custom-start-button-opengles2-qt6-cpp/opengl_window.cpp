@@ -181,7 +181,7 @@ void OpenGLWindow::paintGL()
         m_pProgram->setUniformValue(m_uMvpMatrixLocation, m_mvpMatrix);
         glDrawArrays(GL_TRIANGLE_STRIP, 0, 4);
 
-        GLubyte pixels[3];
+        GLubyte pixels[4];
         glReadPixels(m_mouseX, m_mouseY, 1, 1, GL_RGBA, GL_UNSIGNED_BYTE, pixels);
         GLubyte r = pixels[0];
         GLubyte g = pixels[1];
