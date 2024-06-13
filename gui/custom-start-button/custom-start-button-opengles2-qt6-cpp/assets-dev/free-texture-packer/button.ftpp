@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "E:\\_Projects\\OpenGL\\basic-examples\\gui\\custom-start-button-opengl21-qt6-cpp\\assets\\textures",
+  "images": [
+    {
+      "name": "button-active.png",
+      "path": "E:/_Projects/OpenGL/basic-examples/gui/custom-start-button-opengl21-qt6-cpp/assets-dev/free-texture-packer/button-active.png",
+      "folder": ""
+    },
+    {
+      "name": "button-normal.png",
+      "path": "E:/_Projects/OpenGL/basic-examples/gui/custom-start-button-opengl21-qt6-cpp/assets-dev/free-texture-packer/button-normal.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "button",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "E:\\_Projects\\OpenGL\\basic-examples\\gui\\custom-start-button-opengl21-qt6-cpp\\assets\\textures",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": true,
+    "padding": 0,
+    "extrude": 1,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}
